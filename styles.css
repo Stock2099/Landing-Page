@@ -56,6 +56,11 @@ p {
 button {
     background-color: #3882F6;
     color: white;
+    border-radius: 5px;
+}
+
+#bottom-button {
+    border: 2px solid white;
 }
 
 #third {
@@ -64,3 +69,13 @@ button {
     justify-content: center;
     align-items: center;
 }
+
+blockquote {
+    font-size: 36px;
+    font: #1F2937;
+}
+
+.bottom {
+    background-color: #3882F6;
+}
+
